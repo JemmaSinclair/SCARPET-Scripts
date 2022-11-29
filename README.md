@@ -1,2 +1,1 @@
-# Scripts For LNAM
- All SCARPET Scripts for LNAMs creative server.
+A collection of SCARPET scripts for minecraft
